@@ -1,4 +1,4 @@
-<h1 align="center">hi! i'm *tangy.*</h1>
+<h1 align="center">hi! i'm <b>tangy.</b></h1>
 
 ###
 
